@@ -1,2 +1,0 @@
-# NEW-AI-MAP
-AI MAP
